@@ -1,0 +1,25 @@
+form, div{
+  font-family:'Lato', sans-serif;
+}
+
+h1 {
+/*  any color after # red, green, blue   */
+  background: #0000FF;
+  color: white;
+/*Ctrl+Space    */
+  font-size: 36px;
+}
+
+#title {
+  margin: 30px;
+  border: 5px solid black;
+  padding: 30px;
+  height: 100px;
+  width: 200px;
+}
+form {
+}
+
+.blue-background, ol {
+  background: blue;
+}
